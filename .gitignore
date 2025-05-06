@@ -1,0 +1,37 @@
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore large datasets
+dataset/
+data/
+*.csv
+*.tsv
+*.json
+
+# Ignore model weights/checkpoints
+*.pt
+*.bin
+*.pkl
+*.joblib
+models/checkpoints/
+checkpoints/
+*.h5
+
+# Ignore logs and outputs
+*.log
+*.out
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Flask cache/static build (optional)
+app/__pycache__/
+app/static/generated/

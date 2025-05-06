@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Hinglish Sentiment Analyzer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/1.3.5/tailwind.css">
+  </head>
+  <body style="background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.hdqwalls.com%2Fwallpapers%2Fdark-abstract-black-minimal-4k-q0.jpg&f=1&nofb=1&ipt=af257913815c905c366ceeb85bf2fe8c8394da236ea6cc91956aeb67baaf3862'); background-size: cover;">
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); padding: 40px; border-radius: 10px; background-color: rgba(0, 0, 0, 0.6); color: white; font-family: Roboto; min-width: 400px;">
+      <div class="flex-col">
+        <div>
+          <span class="w-full text-lg block text-center"><strong><u>Hinglish Sentiment Analyzer</u></strong></span>
+        </div>
+        <div class="mt-4">
+          <input id="hinglish-input-id" placeholder="Enter Hinglish input..." class="w-full bg-gray-100 text-black rounded-lg p-2 focus:outline-none focus:ring-2 focus:ring-blue-500">
+        </div>
+        <div class="mt-4">
+          <button onclick="analyzeSentiment()" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg px-5 py-2.5 w-full">
+            Analyze
+          </button>
+        </div>
+        <div class="mt-4 text-center text-white" id="result"></div>
+      </div>
+    </div>
+
+    <script>
+      function analyzeSentiment() {
+        const userInput = document.getElementById('hinglish-input-id').value;
+
+        fetch('/analyze', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ text: userInput })
+        })
+        .then(response => response.json())
+        .then(data => {
+          document.getElementById('result').innerText = "Sentiment: " + data.sentiment;
+        })
+        .catch(error => {
+          console.error('Error:', error);
+          document.getElementById('result').innerText = "Error: Could not analyze input.";
+        });
+      }
+    </script>
+  </body>
+</html>

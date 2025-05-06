@@ -1,0 +1,228 @@
+text,sentiment,label
+Archimedes ka principle yaad aate hi bathtub overflow ho gaya,Happy,0
+"Manager ne meeting mein sabke saamne daanta, kitna embarrassing tha.",Sad,1
+Ye website ka UI itna complicated kyun hai?,Angry,2
+Hamare society mein 50 flats hain.,Neutral,3
+Foreign trip ka visa approve ho gaya!,Happy,0
+Bank ne loan approve nahi kiya.,Sad,1
+Khana thoda salty tha,Neutral,3
+"Promotion mil gaya, finally!",Happy,0
+Normal soap se haath dhoya,Neutral,3
+"Band ne concert diya, amazing experience!",Happy,0
+Meri height 5 feet 10 inches hai.,Neutral,3
+Ye restaurant hygiene follow nahi karta!,Angry,2
+Drone delivery wale ne pizza ko terrace pe nahi... pool mein gira diya,Angry,2
+Astrology aur Astronomy mix kar diya... ab horoscope mein black holes predict karta hoon,Happy,0
+"Apna first YouTube video upload kiya aur 1000 views mil gaye, feeling awesome!",Happy,0
+"Job interview ekdum perfect gaya, offer letter bhi mil gaya!",Happy,0
+Local market se groceries khareede,Neutral,3
+Physics ka concept clear hua... jaise cloud storage se download complete hua,Happy,0
+Amazon ka order damage hoke aaya!,Angry,2
+New investment ka return mila!,Happy,0
+Friend ne birthday wish nahi kiya.,Sad,1
+AI art generator ne meri shakal ko Mona Lisa bana diya! Digital Picasso,Happy,0
+AI-generated poetry competition mein ChatGPT ne mujhe haraya,Sad,1
+Exam cancel? Best news ever!,Happy,0
+"Saala, ye traffic mujhe maar daalega!",Angry,2
+"Band ne concert diya, amazing experience!",Happy,0
+Dog ne puri furniture chew kar di,Sad,1
+Regular day at college.,Neutral,3
+"Bhai ne gift diya, dil khush ho gaya!",Happy,0
+"First salary mili, family ko treat diya!",Happy,0
+Roz ki tarah late night work karna pada.,Sad,1
+"Neend puri nahi hui, mood kharab hai",Angry,2
+"Pet dog mar gaya, bahut roya",Sad,1
+Khana thoda overcooked tha,Neutral,3
+Physics lab mein equipment toot gaya... funding ka crisis ho gaya,Angry,2
+"Market se sabzi laaya, kuch khaas nahi.",Neutral,3
+Light speed calculate kiya... par WiFi speed toh abhi bhi slow hai,Happy,0
+Usne gift return kar dia,Sad,1
+"Job nahi mili, depressed lag raha",Sad,1
+Mere kapde size 38 ke hain.,Neutral,3
+Ghar pe sab normal hai.,Neutral,3
+CA ne tax filing mein galti kar di! Saala incompetent,Angry,2
+"Phone ki battery life ekdum khatam ho gayi hai, har 2 ghante mein charging lagani padti hai.",Sad,1
+Ye hotel ka service bahut slow hai!,Angry,2
+Breakup ke baad lonely feel ho raha.,Sad,1
+"Team ne match jeeta, awesome feeling!",Happy,0
+Drone ne perfect aerial shot liya... until it photobombed a bird,Happy,0
+"Wrong medication di gayi doctor ne, aur tabiyat aur kharab ho gayi.",Sad,1
+Normal cycle se office gaya,Neutral,3
+Physics experiment ka result fake nikla... jaise cold fusion,Angry,2
+Ghar pe sab normal hai,Neutral,3
+Ola cab cancel kar di last minute pe!,Angry,2
+"Itni gandi service ke liye itne paise waste kiye, mujhe gussa aa raha hai!",Angry,2
+Mujhe normal temperature ka paani peena pasand hai.,Neutral,3
+"Jo chal raha hai, chalne do.",Neutral,3
+Long-planned holiday cancel karni padi family emergency ke karan.,Sad,1
+Roz ki tarah late night work karna pada.,Sad,1
+Ye service kaise de rahe ho? Galat hai!,Angry,2
+"Bohot saare memes bheje dost ne, has has ke pet dard ho gaya!",Happy,0
+Lab mein ideal gas banaya... par bill real tha,Angry,2
+"New job pe join kiya, excited hoon!",Happy,0
+"Local market se shopping ki, kuch special nahi.",Neutral,3
+Saala ye tailor suit time pe deliver nahi kiya,Angry,2
+"Har baar same excuse dete ho late aane ka, kya samajh rakha hai?",Angry,2
+Bachche ne drawing competition jeeta!,Happy,0
+Regular broom se floor saaf kiya,Neutral,3
+Roz ki tarah power cut ho gaya,Sad,1
+First salary se family ko treat diya!,Happy,0
+Physics ka test cancel hua... conservation of marks ka principle follow hua,Sad,1
+"Bachche ne first step liya, emotional ho gaye!",Happy,0
+"Favorite movie ka climax spoil kar diya friend ne, mood kharab ho gaya.",Sad,1
+Vertical farming startup ne tomatoes bheje... cricket ball size ke,Sad,1
+Regular physics class li,Neutral,3
+Roz ki tarah metro miss ho gayi,Sad,1
+"Local market se shopping ki, kuch special nahi.",Neutral,3
+DNA test result aaya... 2% alien nikla. Ab Area 51 jaana padega,Sad,1
+"Movie dekh li, kuch khaas nahi tha",Neutral,3
+College festival awesome tha!,Happy,0
+"Diwali pe sabse milne gaya, bahut maza aaya!",Happy,0
+"Foreign trip ka plan ban gaya, excited!",Happy,0
+"Ghar ka khana bana, normal taste.",Neutral,3
+Drone photography business shuru kiya... pigeons ne competition samajh liya,Happy,0
+Smart door lock installation ho gaya! Keys bhoolne ki tension khatam,Happy,0
+Park mein friends ke saath baitha,Neutral,3
+Bohot saare likes mile post pe!,Happy,0
+Bohot saare messages aaye birthday pe!,Happy,0
+Auto wala overcharge kar raha tha!,Angry,2
+Ye phone ka battery backup bakwas hai!,Angry,2
+"Game jeet gaya, squad khush hai!",Happy,0
+"Zyadatar time waste ho gaya meeting mein, koi productive decision nahi hua.",Sad,1
+"Kitna unreliable service hai tumhari, har baar problem create karte ho!",Angry,2
+"Prime video subscription auto-renew ho gaya, pata nahi chala",Sad,1
+Internship offer letter aagaya!,Happy,0
+Ghar pe sab shant hai,Neutral,3
+Saala ye painter kaam adhura chhod gaya,Angry,2
+"Park mein bench pe baitha, kuch khaas nahi.",Neutral,3
+Roz ki tarah traffic jam mein fas gaya,Sad,1
+Park mein thoda walk kiya,Neutral,3
+Physics ka research paper likha... references mein Wikipedia bhi include kar diya,Sad,1
+Usne reply nahi diya,Sad,1
+"Saala, ye traffic mujhe maar daalega!",Angry,2
+"Third time electricity bill galat aaya hai, complaint karne par bhi action nahi lete!",Angry,2
+Main bus se office jaata hun daily.,Neutral,3
+Normal keys se gate khola,Neutral,3
+"Routine chal raha hai, khaas nahi.",Neutral,3
+"Gym gaya, wapas aaya.",Neutral,3
+Ye hotel ka service bahut slow hai,Angry,2
+Physics exam mein time nahi tha... relativity ke according toh bahut time tha,Sad,1
+"Book publish ho gayi, proud feel ho raha",Happy,0
+"Cat missing ho gayi, dhoondhte dhoondhte thak gaya",Sad,1
+Airpods 2 mahine mein hi charge nahi hold karte,Sad,1
+Bohot saare gifts mile Diwali pe!,Happy,0
+Neural network ne meri selfies ko '90% potato' classify kiya,Sad,1
+Smart home ka new setup complete hua! Alexa lights control karti hai,Happy,0
+Regular physics notes revise kiye,Neutral,3
+Parallel universe ka idea soch kar khushi hui ki waha ka version Happy hai,Happy,0
+Baarish mein bheeg gaya aur ab fever ho gaya hai.,Sad,1
+"Flight cancel, vacation barbaad.",Sad,1
+Regular day at college.,Neutral,3
+"Train on time thi, no delay.",Neutral,3
+"BC, ye WiFi kabhi kaam nahi karta!",Angry,2
+Roz ki tarah gym gaya,Neutral,3
+Physics competition mein second aaya... first prize time dilation ki wajah se mila,Sad,1
+Ghar pe sab thik thaak chal raha hai,Neutral,3
+Aaj office mein casual dress code hai.,Neutral,3
+College fest ka performance awesome tha!,Happy,0
+Gaming controller drift ne character ko emotional breakdown dilwa diya,Angry,2
+"Bachche ne surprise diya, dil khush ho gaya!",Happy,0
+Usne block kar dia,Sad,1
+Saala ye AC repair wala paise zyada maang raha,Angry,2
+Robot waiter ne soup serve ki... directly shirt pe,Happy,0
+"Grandpa nahi rahe, bahut yaad aati hai.",Sad,1
+Saala ye plumber phone hi nahi uthata,Angry,2
+"New investment ka return mila, wah!",Happy,0
+Aaj kuch khaas nahi hua.,Neutral,3
+Roz ki tarah din guzra,Neutral,3
+Ye mechanic ne car ka problem double kar diya,Angry,2
+Long-distance relationship khatam hua kyunki partner finally yahan shift ho gayi!,Happy,0
+"10 saal ki mehnat ke baad, finally apna ghar khareed liya!",Happy,0
+"Metro mein itni rush hai phir bhi log dhakka de rahe hain, basic manners nahi hain!",Angry,2
+New startup ka funding round complete hua!,Happy,0
+"Dog bimar ho gaya, vet ke paas le jaana pada",Sad,1
+"Team ne match jeeta, awesome feeling!",Happy,0
+"Yaar, ye song dil jeet liya!",Happy,0
+PubG mein chicken dinner jeeta! Squad Happy,Happy,0
+"Network nahi aa raha, chutiya company.",Angry,2
+"Car mein new sound system lagwaya, awesome!",Happy,0
+Train ka ticket nahi mila!,Angry,2
+Regular physics revision ki,Neutral,3
+"Aaj salary credited hui bank account mein, shopping ka time aa gaya!",Happy,0
+"Best friend shifted abroad, missing.",Sad,1
+Pura din barbaad ho gaya yaar,Sad,1
+Main generally right side pe sota hun bed pe.,Neutral,3
+VR headset order kiya par 2D aaya! 3D life mein bhi dhokha,Angry,2
+Office mein aaj kam workload tha.,Neutral,3
+"Raat ke 2 baje loud music play kar rahe ho, koi consideration hai ya nahi?",Angry,2
+"Office AC nahi chal raha, garmi se pareshaan!",Angry,2
+Bohot saare wishes mile promotion pe!,Happy,0
+Wah! Kya movie thi yaar,Happy,0
+Regular physics class attend ki,Neutral,3
+Koi farak nahi padta.,Neutral,3
+Saala ye internet connection kabhi stable nahi rehta,Angry,2
+Bank ne loan approve nahi kiya.,Sad,1
+TV pe cricket match chal raha hai.,Neutral,3
+New printer paper jam karta rehta hai! Chinese junk,Angry,2
+Time travel concept samajh aate hi 5 parallel universe ka existential crisis aa gaya,Sad,1
+"Flight delay ho gayi, 4 ghante wait karna pada!",Angry,2
+Local dukaan se normal bulb khareeda,Neutral,3
+"Meri car ke samne tumne apni car park kar di, ab main kaise nikalunga?",Angry,2
+Auto wala ne 100 rupaye extra liye!,Angry,2
+Main normally left hand se likhta hun.,Neutral,3
+Quantum computer pe solitaire khela... sab cards simultaneously jeete aur hare,Happy,0
+"BC, ye app kabhi kaam nahi karta!",Angry,2
+"Foreign trip ka plan ban gaya, excited!",Happy,0
+Lab-grown meat burger try kiya... taste exactly like Jumbo King!,Happy,0
+Mere robot vacuum ne kabhi bhi 'Error 404' nahi diya... until today,Sad,1
+"Bhaiya ne surprise gift diya, khush ho gaya!",Happy,0
+New business partner mil gaya!,Happy,0
+Robot bartender ne perfect Old Fashioned banaya... without judging my life choices,Happy,0
+"Morning walk pe gaya, thak gaya.",Neutral,3
+"Bill mein extra charge, cheating hai!",Angry,2
+"Main kal movie dekhne ja raha hun, tickets book kar li hai.",Neutral,3
+"India won the match, wah!",Happy,0
+Ye customer care bots useless hai!,Angry,2
+"Yaar aaj ka din bahut achha tha, maine bohot enjoy kiya!",Happy,0
+Smart yoga mat ne meri 'downward dog' ko 'dying cockroach' classify kiya,Sad,1
+"Proposal accept hua, ring pehna di!",Happy,0
+"Dog shelter se ek puppy adopt kiya, ab ghar mein naya member hai family ka!",Happy,0
+"Pizza cold aaya, complaint karna padega!",Angry,2
+Main apne hair weekly cut karwata hun.,Neutral,3
+Smart fridge ne expiry date extend karne ki jagah mujhe extend kar diya,Angry,2
+"Routine chal raha hai, khaas nahi.",Neutral,3
+Ghar pe TV dekha,Neutral,3
+"Train ka ticket nahi mila, plan cancel!",Angry,2
+"School reunion mein sabne mujhe recognize kiya, old memories refresh ho gayi!",Happy,0
+Tesla autopilot ne galli ka kutta pehchan liya... par speed breaker nahi,Angry,2
+"Kal family ne surprise birthday party organize ki, I'm feeling so loved!",Happy,0
+Physics ka joke sunaya... lab partner ne actually has diya,Happy,0
+Market se samaan le aaya,Neutral,3
+"Exam results aaye aur main top 5 mein hun, mehnat rang layi!",Happy,0
+Physics competition haar gaya... relativity ke according maine hi jeeta tha,Sad,1
+Auto wala ne 100 rupaye extra liye!,Angry,2
+"New job join kiya, bahut excited hoon!",Happy,0
+Local market se fruits khareede,Neutral,3
+Office mein aaj kam workload tha.,Neutral,3
+"Roz traffic mein fasna, gussa aata hai.",Angry,2
+Main usually rice aur dal lunch mein khata hun.,Neutral,3
+Ye carpenter ne furniture galat banaya,Angry,2
+"Interview clear ho gaya, job mil gayi!",Happy,0
+"Bhai ne gift diya, dil khush ho gaya!",Happy,0
+"Naya course join kiya hai, bahut kuch seekhne ko mil raha hai!",Happy,0
+Thermodynamics padh kar AC band kar di... entropy badh rahi thi,Sad,1
+"Best gift ever, love you yaar!",Happy,0
+Web3 startup ke founder ne Discord delete kar diya... along with my investment,Angry,2
+Bank se normal transaction kiya,Neutral,3
+Physics ka concept samajh aaya... ab universe kaise work karta hai pata chala,Happy,0
+Mera favorite color blue hai.,Neutral,3
+Phone thik chal raha hai.,Neutral,3
+"India won the match, wah!",Happy,0
+Laptop ka hard drive crash ho gaya,Sad,1
+First salary se parents ko gift diya!,Happy,0
+Hotel ne room change nahi kiya!,Angry,2
+"Bill mein extra charge, cheating hai!",Angry,2
+"Hotel ka food stale tha, complaint karna padega!",Angry,2
+"Ghar ka khana bana, normal taste.",Neutral,3
+Daily routine follow kiya,Neutral,3
+"Yeh third time delivery attempt fail hua hai, courier company totally useless hai!",Angry,2
